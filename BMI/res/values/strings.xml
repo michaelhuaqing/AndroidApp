@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BMI</string>
+    <string name="app_introduction">BMI，即身体质量指数，是目前国际上常用的衡量人体胖瘦程度以及是否健康的一个标准。</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="height">身高（cm）</string>
+    <string name="weight">体重（kg）</string>
+    <string name="bmi_btn">计算BMI值</string>
+    <string name="bmi_result">你的BMI值是</string>
+    
+    <string name="about_title">关于Android BMI</string>
+    <string name="about_msg">Android BMI Calc</string>
+    <string name="input_error">打错 了 吗 ？ 只 能 输 入 数 字 喔</string>
+    
+    <string name="ok_label">确认</string>
+    <string name="homepage_label">跳转首页</string>
+</resources>
